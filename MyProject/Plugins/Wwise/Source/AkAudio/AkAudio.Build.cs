@@ -127,6 +127,8 @@ public class AkAudio : ModuleRules
 		"AkSpatialAudio",
 		"AkAudioInputSource",
 		"AkVorbisDecoder",
+        "AkAudio",
+        "AudiokineticTools",
 	};
 	
 	public AkAudio(ReadOnlyTargetRules Target) : base(Target)

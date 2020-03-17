@@ -1,2 +1,0 @@
-E:\GitHub\UnrealWwiseTest\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\Definitions.MyProject.h
-e:\github\unrealwwisetest\myproject\source\myproject\MyClass.h

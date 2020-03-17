@@ -63,6 +63,8 @@
 
 // Wwise plug-ins
 #include <AK/Plugin/AkVorbisDecoderFactory.h>
+#include <AK/Plugin/AkAudio.h>
+#include <AK/Plugin/AudiokineticTools.h>
 
 #if AK_SUPPORT_OPUS
 #include <AK/Plugin/AkOpusDecoderFactory.h>
