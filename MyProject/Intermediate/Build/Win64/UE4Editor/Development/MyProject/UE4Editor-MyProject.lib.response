@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-MyProject.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\GitHub\UnrealWwiseTest\MyProject\Intermediate\Build\Win64\MyProjectEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"E:\GitHub\UnrealWwiseTest\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\MyClass.cpp.obj"
+"E:\GitHub\UnrealWwiseTest\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\MyProject.cpp.obj"
+"E:\GitHub\UnrealWwiseTest\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\Default.rc2.res"
+/OUT:"E:\GitHub\UnrealWwiseTest\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\UE4Editor-MyProject.lib"
+/INCLUDE:IMPLEMENT_MODULE_MyProject
