@@ -1,0 +1,2 @@
+F:\Git\GitHub\UnrealWwiseTest\UnrealProject\Intermediate\Build\Win64\UE4Editor\Development\UnrealProject\Definitions.UnrealProject.h
+F:\Git\GitHub\UnrealWwiseTest\UnrealProject\Source\UnrealProject\UnrealProject.h

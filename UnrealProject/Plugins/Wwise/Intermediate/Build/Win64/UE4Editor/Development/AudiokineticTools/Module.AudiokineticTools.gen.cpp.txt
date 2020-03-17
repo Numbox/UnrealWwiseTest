@@ -1,0 +1,85 @@
+F:\Git\GitHub\UnrealWwiseTest\UnrealProject\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Development\AudiokineticTools\Definitions.AudiokineticTools.h
+F:/Git/GitHub/UnrealWwiseTest/UnrealProject/Plugins/Wwise/Intermediate/Build/Win64/UE4Editor/Inc/AudiokineticTools/ActorFactoryAkAmbientSound.gen.cpp
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+F:\Git\GitHub\UnrealWwiseTest\UnrealProject\Plugins\Wwise\Source\AudiokineticTools/Classes/ActorFactoryAkAmbientSound.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Editor\UnrealEd\Classes\ActorFactories/ActorFactory.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\ActorFactory.generated.h
+F:\Git\GitHub\UnrealWwiseTest\UnrealProject\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AudiokineticTools\ActorFactoryAkAmbientSound.generated.h
+F:/Git/GitHub/UnrealWwiseTest/UnrealProject/Plugins/Wwise/Intermediate/Build/Win64/UE4Editor/Inc/AudiokineticTools/AkAcousticTextureFactory.gen.cpp
+F:\Git\GitHub\UnrealWwiseTest\UnrealProject\Plugins\Wwise\Source\AudiokineticTools/Classes/AkAcousticTextureFactory.h
+F:\Git\GitHub\UnrealWwiseTest\UnrealProject\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AudiokineticTools\AkAcousticTextureFactory.generated.h
+F:/Git/GitHub/UnrealWwiseTest/UnrealProject/Plugins/Wwise/Intermediate/Build/Win64/UE4Editor/Inc/AudiokineticTools/AkAndroidPlatformInfo.gen.cpp
+F:\Git\GitHub\UnrealWwiseTest\UnrealProject\Plugins\Wwise\Source\AudiokineticTools/Classes/Platforms/AkPlatform_Android/AkAndroidPlatformInfo.h
+F:\Git\GitHub\UnrealWwiseTest\UnrealProject\Plugins\Wwise\Source\AudiokineticTools\Classes\Platforms/AkPlatformInfo.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Classes\Engine/GameEngine.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Slate\Public\Widgets/SViewport.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\SlateCore\Public\Input/HittestGrid.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime/MovieSceneCapture/Public/MovieSceneCaptureHandle.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameEngine.generated.h
+F:\Git\GitHub\UnrealWwiseTest\UnrealProject\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AudiokineticTools\AkPlatformInfo.generated.h
+F:\Git\GitHub\UnrealWwiseTest\UnrealProject\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AudiokineticTools\AkAndroidPlatformInfo.generated.h
+F:/Git/GitHub/UnrealWwiseTest/UnrealProject/Plugins/Wwise/Intermediate/Build/Win64/UE4Editor/Inc/AudiokineticTools/AkAudioBankFactory.gen.cpp
+F:\Git\GitHub\UnrealWwiseTest\UnrealProject\Plugins\Wwise\Source\AudiokineticTools/Classes/AkAudioBankFactory.h
+F:\Git\GitHub\UnrealWwiseTest\UnrealProject\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AudiokineticTools\AkAudioBankFactory.generated.h
+F:/Git/GitHub/UnrealWwiseTest/UnrealProject/Plugins/Wwise/Intermediate/Build/Win64/UE4Editor/Inc/AudiokineticTools/AkAudioEventFactory.gen.cpp
+F:\Git\GitHub\UnrealWwiseTest\UnrealProject\Plugins\Wwise\Source\AudiokineticTools/Classes/AkAudioEventFactory.h
+F:\Git\GitHub\UnrealWwiseTest\UnrealProject\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AudiokineticTools\AkAudioEventFactory.generated.h
+F:/Git/GitHub/UnrealWwiseTest/UnrealProject/Plugins/Wwise/Intermediate/Build/Win64/UE4Editor/Inc/AudiokineticTools/AkAuxBusFactory.gen.cpp
+F:\Git\GitHub\UnrealWwiseTest\UnrealProject\Plugins\Wwise\Source\AudiokineticTools/Classes/AkAuxBusFactory.h
+F:\Git\GitHub\UnrealWwiseTest\UnrealProject\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AudiokineticTools\AkAuxBusFactory.generated.h
+F:/Git/GitHub/UnrealWwiseTest/UnrealProject/Plugins/Wwise/Intermediate/Build/Win64/UE4Editor/Inc/AudiokineticTools/AkIOSPlatformInfo.gen.cpp
+F:\Git\GitHub\UnrealWwiseTest\UnrealProject\Plugins\Wwise\Source\AudiokineticTools/Classes/Platforms/AkPlatform_iOS/AkIOSPlatformInfo.h
+F:\Git\GitHub\UnrealWwiseTest\UnrealProject\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AudiokineticTools\AkIOSPlatformInfo.generated.h
+F:/Git/GitHub/UnrealWwiseTest/UnrealProject/Plugins/Wwise/Intermediate/Build/Win64/UE4Editor/Inc/AudiokineticTools/AkJsonFactory.gen.cpp
+F:\Git\GitHub\UnrealWwiseTest\UnrealProject\Plugins\Wwise\Source\AudiokineticTools/Classes/AkJsonFactory.h
+F:\Git\GitHub\UnrealWwiseTest\UnrealProject\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AudiokineticTools\AkJsonFactory.generated.h
+F:/Git/GitHub/UnrealWwiseTest/UnrealProject/Plugins/Wwise/Intermediate/Build/Win64/UE4Editor/Inc/AudiokineticTools/AkLinuxPlatformInfo.gen.cpp
+F:\Git\GitHub\UnrealWwiseTest\UnrealProject\Plugins\Wwise\Source\AudiokineticTools/Classes/Platforms/AkPlatform_Linux/AkLinuxPlatformInfo.h
+F:\Git\GitHub\UnrealWwiseTest\UnrealProject\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AudiokineticTools\AkLinuxPlatformInfo.generated.h
+F:/Git/GitHub/UnrealWwiseTest/UnrealProject/Plugins/Wwise/Intermediate/Build/Win64/UE4Editor/Inc/AudiokineticTools/AkLuminPlatformInfo.gen.cpp
+F:\Git\GitHub\UnrealWwiseTest\UnrealProject\Plugins\Wwise\Source\AudiokineticTools/Classes/Platforms/AkPlatform_Lumin/AkLuminPlatformInfo.h
+F:\Git\GitHub\UnrealWwiseTest\UnrealProject\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AudiokineticTools\AkLuminPlatformInfo.generated.h
+F:/Git/GitHub/UnrealWwiseTest/UnrealProject/Plugins/Wwise/Intermediate/Build/Win64/UE4Editor/Inc/AudiokineticTools/AkMacPlatformInfo.gen.cpp
+F:\Git\GitHub\UnrealWwiseTest\UnrealProject\Plugins\Wwise\Source\AudiokineticTools/Classes/Platforms/AkPlatform_Mac/AkMacPlatformInfo.h
+F:\Git\GitHub\UnrealWwiseTest\UnrealProject\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AudiokineticTools\AkMacPlatformInfo.generated.h
+F:/Git/GitHub/UnrealWwiseTest/UnrealProject/Plugins/Wwise/Intermediate/Build/Win64/UE4Editor/Inc/AudiokineticTools/AkPlatformInfo.gen.cpp
+F:/Git/GitHub/UnrealWwiseTest/UnrealProject/Plugins/Wwise/Intermediate/Build/Win64/UE4Editor/Inc/AudiokineticTools/AkPluginActivatorCommandlet.gen.cpp
+F:\Git\GitHub\UnrealWwiseTest\UnrealProject\Plugins\Wwise\Source\AudiokineticTools/Classes/AkPluginActivatorCommandlet.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Classes\Commandlets/Commandlet.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Commandlet.generated.h
+F:\Git\GitHub\UnrealWwiseTest\UnrealProject\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AudiokineticTools\AkPluginActivatorCommandlet.generated.h
+F:/Git/GitHub/UnrealWwiseTest/UnrealProject/Plugins/Wwise/Intermediate/Build/Win64/UE4Editor/Inc/AudiokineticTools/AkPS4PlatformInfo.gen.cpp
+F:\Git\GitHub\UnrealWwiseTest\UnrealProject\Plugins\Wwise\Source\AudiokineticTools/Classes/Platforms/AkPlatform_PS4/AkPS4PlatformInfo.h
+F:\Git\GitHub\UnrealWwiseTest\UnrealProject\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AudiokineticTools\AkPS4PlatformInfo.generated.h
+F:/Git/GitHub/UnrealWwiseTest/UnrealProject/Plugins/Wwise/Intermediate/Build/Win64/UE4Editor/Inc/AudiokineticTools/AkSwitchPlatformInfo.gen.cpp
+F:\Git\GitHub\UnrealWwiseTest\UnrealProject\Plugins\Wwise\Source\AudiokineticTools/Classes/Platforms/AkPlatform_Switch/AkSwitchPlatformInfo.h
+F:\Git\GitHub\UnrealWwiseTest\UnrealProject\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AudiokineticTools\AkSwitchPlatformInfo.generated.h
+F:/Git/GitHub/UnrealWwiseTest/UnrealProject/Plugins/Wwise/Intermediate/Build/Win64/UE4Editor/Inc/AudiokineticTools/AkWindowsPlatformInfo.gen.cpp
+F:\Git\GitHub\UnrealWwiseTest\UnrealProject\Plugins\Wwise\Source\AudiokineticTools/Classes/Platforms/AkPlatform_Windows/AkWindowsPlatformInfo.h
+F:\Git\GitHub\UnrealWwiseTest\UnrealProject\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AudiokineticTools\AkWindowsPlatformInfo.generated.h
+F:/Git/GitHub/UnrealWwiseTest/UnrealProject/Plugins/Wwise/Intermediate/Build/Win64/UE4Editor/Inc/AudiokineticTools/AkXboxOnePlatformInfo.gen.cpp
+F:\Git\GitHub\UnrealWwiseTest\UnrealProject\Plugins\Wwise\Source\AudiokineticTools/Classes/Platforms/AkPlatform_XboxOne/AkXboxOnePlatformInfo.h
+F:\Git\GitHub\UnrealWwiseTest\UnrealProject\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AudiokineticTools\AkXboxOnePlatformInfo.generated.h
+F:/Git/GitHub/UnrealWwiseTest/UnrealProject/Plugins/Wwise/Intermediate/Build/Win64/UE4Editor/Inc/AudiokineticTools/AudiokineticTools.init.gen.cpp
+F:/Git/GitHub/UnrealWwiseTest/UnrealProject/Plugins/Wwise/Intermediate/Build/Win64/UE4Editor/Inc/AudiokineticTools/GenerateSoundBanksCommandlet.gen.cpp
+F:\Git\GitHub\UnrealWwiseTest\UnrealProject\Plugins\Wwise\Source\AudiokineticTools/Classes/GenerateSoundBanksCommandlet.h
+F:\Git\GitHub\UnrealWwiseTest\UnrealProject\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AudiokineticTools\GenerateSoundBanksCommandlet.generated.h
+F:/Git/GitHub/UnrealWwiseTest/UnrealProject/Plugins/Wwise/Intermediate/Build/Win64/UE4Editor/Inc/AudiokineticTools/InterpTrackAkAudioEventHelper.gen.cpp
+F:\Git\GitHub\UnrealWwiseTest\UnrealProject\Plugins\Wwise\Source\AudiokineticTools/Classes/InterpTrackAkAudioEventHelper.h
+F:\Git\GitHub\UnrealWwiseTest\UnrealProject\Plugins\Wwise\Source\AkAudio\Classes\AkAudioEvent.h
+F:\Git\GitHub\UnrealWwiseTest\UnrealProject\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkAudioEvent.generated.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Classes\Matinee/InterpTrack.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Public\Interpolation.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\InterpTrack.generated.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Editor\Matinee\Public\IMatinee.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Editor\Matinee\Public\MatineeGroupData.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Classes\Matinee/InterpGroup.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\InterpGroup.generated.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Editor\Matinee\Public\MatineeTrackData.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Editor\Matinee\Classes\InterpTrackHelper.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Matinee\InterpTrackHelper.generated.h
+F:\Git\GitHub\UnrealWwiseTest\UnrealProject\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AudiokineticTools\InterpTrackAkAudioEventHelper.generated.h
+F:/Git/GitHub/UnrealWwiseTest/UnrealProject/Plugins/Wwise/Intermediate/Build/Win64/UE4Editor/Inc/AudiokineticTools/InterpTrackAkAudioRTPCHelper.gen.cpp
+F:\Git\GitHub\UnrealWwiseTest\UnrealProject\Plugins\Wwise\Source\AudiokineticTools/Classes/InterpTrackAkAudioRTPCHelper.h
+F:\Git\GitHub\UnrealWwiseTest\UnrealProject\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AudiokineticTools\InterpTrackAkAudioRTPCHelper.generated.h

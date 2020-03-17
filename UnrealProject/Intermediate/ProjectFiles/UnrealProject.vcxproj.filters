@@ -1,0 +1,1086 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\UnrealProject.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{FAD33B2C-877F-4F8E-984B-3C89689CFADA}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\UnrealProject.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\UnrealProjectEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{515AB737-22C3-4683-849F-5C6607C7FCB6}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Plugins">
+      <UniqueIdentifier>{94C42E6C-AB22-47C0-8B6D-BB524CE1D39A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\Wwise">
+      <UniqueIdentifier>{06E53E7A-8758-4BC5-8D33-34750A249B3B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\Wwise\Source">
+      <UniqueIdentifier>{24E449FE-3C57-4BE0-84EB-B92F8814CCBF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\Wwise\Source\AudiokineticTools">
+      <UniqueIdentifier>{ACDC2002-3299-4E21-9174-099926F658AA}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\Wwise\Source\AudiokineticTools\AudiokineticTools.Build.cs">
+      <Filter>Plugins\Wwise\Source\AudiokineticTools</Filter>
+    </None>
+    <Filter Include="Plugins\Wwise\Source\AudiokineticTools\Classes">
+      <UniqueIdentifier>{ABC25650-C32E-440A-B9EE-1C4666604CDC}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AudiokineticTools\Classes\ActorFactoryAkAmbientSound.h">
+      <Filter>Plugins\Wwise\Source\AudiokineticTools\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AudiokineticTools\Classes\AkAcousticTextureFactory.h">
+      <Filter>Plugins\Wwise\Source\AudiokineticTools\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AudiokineticTools\Classes\AkAudioBankFactory.h">
+      <Filter>Plugins\Wwise\Source\AudiokineticTools\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AudiokineticTools\Classes\AkAudioEventFactory.h">
+      <Filter>Plugins\Wwise\Source\AudiokineticTools\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AudiokineticTools\Classes\AkAuxBusFactory.h">
+      <Filter>Plugins\Wwise\Source\AudiokineticTools\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AudiokineticTools\Classes\AkJsonFactory.h">
+      <Filter>Plugins\Wwise\Source\AudiokineticTools\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AudiokineticTools\Classes\AkPluginActivatorCommandlet.h">
+      <Filter>Plugins\Wwise\Source\AudiokineticTools\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AudiokineticTools\Classes\GenerateSoundBanksCommandlet.h">
+      <Filter>Plugins\Wwise\Source\AudiokineticTools\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AudiokineticTools\Classes\InterpTrackAkAudioEventHelper.h">
+      <Filter>Plugins\Wwise\Source\AudiokineticTools\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AudiokineticTools\Classes\InterpTrackAkAudioRTPCHelper.h">
+      <Filter>Plugins\Wwise\Source\AudiokineticTools\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AudiokineticTools\Classes\WwiseEventDragDropOp.h">
+      <Filter>Plugins\Wwise\Source\AudiokineticTools\Classes</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\Wwise\Source\AudiokineticTools\Classes\Platforms">
+      <UniqueIdentifier>{D0F3BC47-4835-4C5C-9610-091D8C931C6F}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AudiokineticTools\Classes\Platforms\AkPlatformInfo.h">
+      <Filter>Plugins\Wwise\Source\AudiokineticTools\Classes\Platforms</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\Wwise\Source\AudiokineticTools\Classes\Platforms\AkPlatform_Android">
+      <UniqueIdentifier>{BAF5E113-4923-476E-87F3-6662A48A4CB5}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AudiokineticTools\Classes\Platforms\AkPlatform_Android\AkAndroidPlatformInfo.h">
+      <Filter>Plugins\Wwise\Source\AudiokineticTools\Classes\Platforms\AkPlatform_Android</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\Wwise\Source\AudiokineticTools\Classes\Platforms\AkPlatform_iOS">
+      <UniqueIdentifier>{8C304646-ABE1-4333-AFE9-3B946AEBE479}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AudiokineticTools\Classes\Platforms\AkPlatform_iOS\AkIOSPlatformInfo.h">
+      <Filter>Plugins\Wwise\Source\AudiokineticTools\Classes\Platforms\AkPlatform_iOS</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\Wwise\Source\AudiokineticTools\Classes\Platforms\AkPlatform_Linux">
+      <UniqueIdentifier>{A874BA98-EE0A-44F3-A3ED-0E7FED59760C}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AudiokineticTools\Classes\Platforms\AkPlatform_Linux\AkLinuxPlatformInfo.h">
+      <Filter>Plugins\Wwise\Source\AudiokineticTools\Classes\Platforms\AkPlatform_Linux</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\Wwise\Source\AudiokineticTools\Classes\Platforms\AkPlatform_Lumin">
+      <UniqueIdentifier>{92A13849-4E0E-428A-AB78-A9EABBE8B5C1}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AudiokineticTools\Classes\Platforms\AkPlatform_Lumin\AkLuminPlatformInfo.h">
+      <Filter>Plugins\Wwise\Source\AudiokineticTools\Classes\Platforms\AkPlatform_Lumin</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\Wwise\Source\AudiokineticTools\Classes\Platforms\AkPlatform_Mac">
+      <UniqueIdentifier>{38D96733-ABCA-4891-8624-7D3BCB803848}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AudiokineticTools\Classes\Platforms\AkPlatform_Mac\AkMacPlatformInfo.h">
+      <Filter>Plugins\Wwise\Source\AudiokineticTools\Classes\Platforms\AkPlatform_Mac</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\Wwise\Source\AudiokineticTools\Classes\Platforms\AkPlatform_PS4">
+      <UniqueIdentifier>{CB3EF23C-D91C-4FAC-AE76-A3008F2E1B60}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AudiokineticTools\Classes\Platforms\AkPlatform_PS4\AkPS4PlatformInfo.h">
+      <Filter>Plugins\Wwise\Source\AudiokineticTools\Classes\Platforms\AkPlatform_PS4</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\Wwise\Source\AudiokineticTools\Classes\Platforms\AkPlatform_Switch">
+      <UniqueIdentifier>{5795F1EF-CEE8-42C4-B80A-DAA0FFCCE69A}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AudiokineticTools\Classes\Platforms\AkPlatform_Switch\AkSwitchPlatformInfo.h">
+      <Filter>Plugins\Wwise\Source\AudiokineticTools\Classes\Platforms\AkPlatform_Switch</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\Wwise\Source\AudiokineticTools\Classes\Platforms\AkPlatform_Windows">
+      <UniqueIdentifier>{30651E9E-22ED-4475-B120-F0B794AB15ED}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AudiokineticTools\Classes\Platforms\AkPlatform_Windows\AkWindowsPlatformInfo.h">
+      <Filter>Plugins\Wwise\Source\AudiokineticTools\Classes\Platforms\AkPlatform_Windows</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\Wwise\Source\AudiokineticTools\Classes\Platforms\AkPlatform_XboxOne">
+      <UniqueIdentifier>{5F3AF183-6EF0-4AAB-B962-FB470C3836ED}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AudiokineticTools\Classes\Platforms\AkPlatform_XboxOne\AkXboxOnePlatformInfo.h">
+      <Filter>Plugins\Wwise\Source\AudiokineticTools\Classes\Platforms\AkPlatform_XboxOne</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\Wwise\Source\AudiokineticTools\Classes\WwisePicker">
+      <UniqueIdentifier>{DEC3DB69-EC81-41B5-AAE1-D2FC882530DE}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AudiokineticTools\Classes\WwisePicker\SWwisePicker.h">
+      <Filter>Plugins\Wwise\Source\AudiokineticTools\Classes\WwisePicker</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AudiokineticTools\Classes\WwisePicker\WwiseWwuParser.h">
+      <Filter>Plugins\Wwise\Source\AudiokineticTools\Classes\WwisePicker</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\Wwise\Source\AudiokineticTools\Private">
+      <UniqueIdentifier>{E47BB4B3-7604-46F3-B1A3-24ACDCF58F90}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\Wwise\Source\AudiokineticTools\Private\ActorFactoryAkAmbientSound.cpp">
+      <Filter>Plugins\Wwise\Source\AudiokineticTools\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\Wwise\Source\AudiokineticTools\Private\AkAcousticPortalVisualizer.cpp">
+      <Filter>Plugins\Wwise\Source\AudiokineticTools\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AudiokineticTools\Private\AkAcousticPortalVisualizer.h">
+      <Filter>Plugins\Wwise\Source\AudiokineticTools\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\Wwise\Source\AudiokineticTools\Private\AkAcousticTextureFactory.cpp">
+      <Filter>Plugins\Wwise\Source\AudiokineticTools\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\Wwise\Source\AudiokineticTools\Private\AkAudioBankFactory.cpp">
+      <Filter>Plugins\Wwise\Source\AudiokineticTools\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\Wwise\Source\AudiokineticTools\Private\AkAudioBankGenerationHelpers.cpp">
+      <Filter>Plugins\Wwise\Source\AudiokineticTools\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\Wwise\Source\AudiokineticTools\Private\AkAudioEventFactory.cpp">
+      <Filter>Plugins\Wwise\Source\AudiokineticTools\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\Wwise\Source\AudiokineticTools\Private\AkAuxBusFactory.cpp">
+      <Filter>Plugins\Wwise\Source\AudiokineticTools\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\Wwise\Source\AudiokineticTools\Private\AkComponentVisualizer.cpp">
+      <Filter>Plugins\Wwise\Source\AudiokineticTools\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AudiokineticTools\Private\AkComponentVisualizer.h">
+      <Filter>Plugins\Wwise\Source\AudiokineticTools\Private</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AudiokineticTools\Private\AkEventAssetBroker.h">
+      <Filter>Plugins\Wwise\Source\AudiokineticTools\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\Wwise\Source\AudiokineticTools\Private\AkGeometryComponentDetailsCustomization.cpp">
+      <Filter>Plugins\Wwise\Source\AudiokineticTools\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AudiokineticTools\Private\AkGeometryComponentDetailsCustomization.h">
+      <Filter>Plugins\Wwise\Source\AudiokineticTools\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\Wwise\Source\AudiokineticTools\Private\AkJsonFactory.cpp">
+      <Filter>Plugins\Wwise\Source\AudiokineticTools\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\Wwise\Source\AudiokineticTools\Private\AkLateReverbComponentDetailsCustomization.cpp">
+      <Filter>Plugins\Wwise\Source\AudiokineticTools\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AudiokineticTools\Private\AkLateReverbComponentDetailsCustomization.h">
+      <Filter>Plugins\Wwise\Source\AudiokineticTools\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\Wwise\Source\AudiokineticTools\Private\AkMatineeImportTools.cpp">
+      <Filter>Plugins\Wwise\Source\AudiokineticTools\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AudiokineticTools\Private\AkMatineeImportTools.h">
+      <Filter>Plugins\Wwise\Source\AudiokineticTools\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\Wwise\Source\AudiokineticTools\Private\AkPluginActivatorCommandlet.cpp">
+      <Filter>Plugins\Wwise\Source\AudiokineticTools\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\Wwise\Source\AudiokineticTools\Private\AkRoomComponentDetailsCustomization.cpp">
+      <Filter>Plugins\Wwise\Source\AudiokineticTools\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AudiokineticTools\Private\AkRoomComponentDetailsCustomization.h">
+      <Filter>Plugins\Wwise\Source\AudiokineticTools\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\Wwise\Source\AudiokineticTools\Private\AkSurfaceReflectorSetComponentVisualizer.cpp">
+      <Filter>Plugins\Wwise\Source\AudiokineticTools\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AudiokineticTools\Private\AkSurfaceReflectorSetComponentVisualizer.h">
+      <Filter>Plugins\Wwise\Source\AudiokineticTools\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\Wwise\Source\AudiokineticTools\Private\AkSurfaceReflectorSetDetailsCustomization.cpp">
+      <Filter>Plugins\Wwise\Source\AudiokineticTools\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AudiokineticTools\Private\AkSurfaceReflectorSetDetailsCustomization.h">
+      <Filter>Plugins\Wwise\Source\AudiokineticTools\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\Wwise\Source\AudiokineticTools\Private\AssetTypeActions_AkAcousticTexture.cpp">
+      <Filter>Plugins\Wwise\Source\AudiokineticTools\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AudiokineticTools\Private\AssetTypeActions_AkAcousticTexture.h">
+      <Filter>Plugins\Wwise\Source\AudiokineticTools\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\Wwise\Source\AudiokineticTools\Private\AssetTypeActions_AkAudioBank.cpp">
+      <Filter>Plugins\Wwise\Source\AudiokineticTools\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AudiokineticTools\Private\AssetTypeActions_AkAudioBank.h">
+      <Filter>Plugins\Wwise\Source\AudiokineticTools\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\Wwise\Source\AudiokineticTools\Private\AssetTypeActions_AkAudioEvent.cpp">
+      <Filter>Plugins\Wwise\Source\AudiokineticTools\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AudiokineticTools\Private\AssetTypeActions_AkAudioEvent.h">
+      <Filter>Plugins\Wwise\Source\AudiokineticTools\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\Wwise\Source\AudiokineticTools\Private\AssetTypeActions_AkAuxBus.cpp">
+      <Filter>Plugins\Wwise\Source\AudiokineticTools\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AudiokineticTools\Private\AssetTypeActions_AkAuxBus.h">
+      <Filter>Plugins\Wwise\Source\AudiokineticTools\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\Wwise\Source\AudiokineticTools\Private\AudiokineticToolsModule.cpp">
+      <Filter>Plugins\Wwise\Source\AudiokineticTools\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AudiokineticTools\Private\AudiokineticToolsPrivatePCH.h">
+      <Filter>Plugins\Wwise\Source\AudiokineticTools\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\Wwise\Source\AudiokineticTools\Private\GenerateSoundBanksCommandlet.cpp">
+      <Filter>Plugins\Wwise\Source\AudiokineticTools\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\Wwise\Source\AudiokineticTools\Private\InterpTrackAkAudioEventHelper.cpp">
+      <Filter>Plugins\Wwise\Source\AudiokineticTools\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\Wwise\Source\AudiokineticTools\Private\InterpTrackAkAudioRTPCHelper.cpp">
+      <Filter>Plugins\Wwise\Source\AudiokineticTools\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\Wwise\Source\AudiokineticTools\Private\MovieSceneAkAudioEventTrackEditor.cpp">
+      <Filter>Plugins\Wwise\Source\AudiokineticTools\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AudiokineticTools\Private\MovieSceneAkAudioEventTrackEditor.h">
+      <Filter>Plugins\Wwise\Source\AudiokineticTools\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\Wwise\Source\AudiokineticTools\Private\MovieSceneAkAudioRTPCTrackEditor.cpp">
+      <Filter>Plugins\Wwise\Source\AudiokineticTools\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AudiokineticTools\Private\MovieSceneAkAudioRTPCTrackEditor.h">
+      <Filter>Plugins\Wwise\Source\AudiokineticTools\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\Wwise\Source\AudiokineticTools\Private\SGenerateSoundBanks.cpp">
+      <Filter>Plugins\Wwise\Source\AudiokineticTools\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AudiokineticTools\Private\SGenerateSoundBanks.h">
+      <Filter>Plugins\Wwise\Source\AudiokineticTools\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\Wwise\Source\AudiokineticTools\Private\SMatineeAkEventKeyFrameAdder.cpp">
+      <Filter>Plugins\Wwise\Source\AudiokineticTools\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AudiokineticTools\Private\SMatineeAkEventKeyFrameAdder.h">
+      <Filter>Plugins\Wwise\Source\AudiokineticTools\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\Wwise\Source\AudiokineticTools\Private\WwiseEventDragDropOp.cpp">
+      <Filter>Plugins\Wwise\Source\AudiokineticTools\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\Wwise\Source\AudiokineticTools\Private\WwisePicker">
+      <UniqueIdentifier>{F6360BD7-3762-4538-8FF5-48FF602A4D32}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\Wwise\Source\AudiokineticTools\Private\WwisePicker\SWwisePicker.cpp">
+      <Filter>Plugins\Wwise\Source\AudiokineticTools\Private\WwisePicker</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\Wwise\Source\AudiokineticTools\Private\WwisePicker\WwiseWwuParser.cpp">
+      <Filter>Plugins\Wwise\Source\AudiokineticTools\Private\WwisePicker</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\Wwise\Source\AudiokineticTools\Public">
+      <UniqueIdentifier>{C95D2D56-9512-409F-B565-2D92FA3CBEC7}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AudiokineticTools\Public\AkAudioBankGenerationHelpers.h">
+      <Filter>Plugins\Wwise\Source\AudiokineticTools\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AudiokineticTools\Public\IAudiokineticTools.h">
+      <Filter>Plugins\Wwise\Source\AudiokineticTools\Public</Filter>
+    </ClInclude>
+    <None Include="..\..\Plugins\Wwise\Wwise.uplugin">
+      <Filter>Plugins\Wwise</Filter>
+    </None>
+    <Filter Include="Plugins\Wwise\Resources">
+      <UniqueIdentifier>{A7B23803-7416-472A-B189-2544D6A135CD}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\Wwise\Resources\Icon128.png">
+      <Filter>Plugins\Wwise\Resources</Filter>
+    </None>
+    <Filter Include="Plugins\Wwise\Source\AkAudio">
+      <UniqueIdentifier>{720570F1-2F6C-4CC1-8B22-DE1D3C4C397F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\Wwise\Source\AkAudio\AkAudio.Build.cs">
+      <Filter>Plugins\Wwise\Source\AkAudio</Filter>
+    </None>
+    <None Include="..\..\Plugins\Wwise\Source\AkAudio\AkAudio_Android.Build.cs">
+      <Filter>Plugins\Wwise\Source\AkAudio</Filter>
+    </None>
+    <None Include="..\..\Plugins\Wwise\Source\AkAudio\AkAudio_iOS.Build.cs">
+      <Filter>Plugins\Wwise\Source\AkAudio</Filter>
+    </None>
+    <None Include="..\..\Plugins\Wwise\Source\AkAudio\AkAudio_Linux.Build.cs">
+      <Filter>Plugins\Wwise\Source\AkAudio</Filter>
+    </None>
+    <None Include="..\..\Plugins\Wwise\Source\AkAudio\AkAudio_Lumin.Build.cs">
+      <Filter>Plugins\Wwise\Source\AkAudio</Filter>
+    </None>
+    <None Include="..\..\Plugins\Wwise\Source\AkAudio\AkAudio_Mac.Build.cs">
+      <Filter>Plugins\Wwise\Source\AkAudio</Filter>
+    </None>
+    <None Include="..\..\Plugins\Wwise\Source\AkAudio\AkAudio_PS4.Build.cs">
+      <Filter>Plugins\Wwise\Source\AkAudio</Filter>
+    </None>
+    <None Include="..\..\Plugins\Wwise\Source\AkAudio\AkAudio_Stadia.Build.cs">
+      <Filter>Plugins\Wwise\Source\AkAudio</Filter>
+    </None>
+    <None Include="..\..\Plugins\Wwise\Source\AkAudio\AkAudio_Switch.Build.cs">
+      <Filter>Plugins\Wwise\Source\AkAudio</Filter>
+    </None>
+    <None Include="..\..\Plugins\Wwise\Source\AkAudio\AkAudio_Windows.Build.cs">
+      <Filter>Plugins\Wwise\Source\AkAudio</Filter>
+    </None>
+    <None Include="..\..\Plugins\Wwise\Source\AkAudio\AkAudio_XboxOne.Build.cs">
+      <Filter>Plugins\Wwise\Source\AkAudio</Filter>
+    </None>
+    <None Include="..\..\Plugins\Wwise\Source\AkAudio\WwisePostBuildSteps.bat">
+      <Filter>Plugins\Wwise\Source\AkAudio</Filter>
+    </None>
+    <None Include="..\..\Plugins\Wwise\Source\AkAudio\WwisePostBuildSteps.sh">
+      <Filter>Plugins\Wwise\Source\AkAudio</Filter>
+    </None>
+    <None Include="..\..\Plugins\Wwise\Source\AkAudio\Wwise_APL.xml">
+      <Filter>Plugins\Wwise\Source\AkAudio</Filter>
+    </None>
+    <None Include="..\..\Plugins\Wwise\Source\AkAudio\Wwise_LPL.xml">
+      <Filter>Plugins\Wwise\Source\AkAudio</Filter>
+    </None>
+    <Filter Include="Plugins\Wwise\Source\AkAudio\Classes">
+      <UniqueIdentifier>{CE83EE83-3431-4912-8180-61D501A7005B}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AkAudio\Classes\AkAcousticPortal.h">
+      <Filter>Plugins\Wwise\Source\AkAudio\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AkAudio\Classes\AkAcousticTexture.h">
+      <Filter>Plugins\Wwise\Source\AkAudio\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AkAudio\Classes\AkActivatedPlugins.h">
+      <Filter>Plugins\Wwise\Source\AkAudio\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AkAudio\Classes\AkAmbientSound.h">
+      <Filter>Plugins\Wwise\Source\AkAudio\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AkAudio\Classes\AkAudioBank.h">
+      <Filter>Plugins\Wwise\Source\AkAudio\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AkAudio\Classes\AkAudioEvent.h">
+      <Filter>Plugins\Wwise\Source\AkAudio\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AkAudio\Classes\AkAudioInputComponent.h">
+      <Filter>Plugins\Wwise\Source\AkAudio\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AkAudio\Classes\AkAudioInputManager.h">
+      <Filter>Plugins\Wwise\Source\AkAudio\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AkAudio\Classes\AkAudioStyle.h">
+      <Filter>Plugins\Wwise\Source\AkAudio\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AkAudio\Classes\AkAuxBus.h">
+      <Filter>Plugins\Wwise\Source\AkAudio\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AkAudio\Classes\AkBankManager.h">
+      <Filter>Plugins\Wwise\Source\AkAudio\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AkAudio\Classes\AkCallbackInfoPool.h">
+      <Filter>Plugins\Wwise\Source\AkAudio\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AkAudio\Classes\AkComponent.h">
+      <Filter>Plugins\Wwise\Source\AkAudio\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AkAudio\Classes\AkGameObject.h">
+      <Filter>Plugins\Wwise\Source\AkAudio\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AkAudio\Classes\AkGameplayStatics.h">
+      <Filter>Plugins\Wwise\Source\AkAudio\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AkAudio\Classes\AkGameplayTypes.h">
+      <Filter>Plugins\Wwise\Source\AkAudio\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AkAudio\Classes\AkGeometryComponent.h">
+      <Filter>Plugins\Wwise\Source\AkAudio\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AkAudio\Classes\AkLateReverbComponent.h">
+      <Filter>Plugins\Wwise\Source\AkAudio\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AkAudio\Classes\AkReverbVolume.h">
+      <Filter>Plugins\Wwise\Source\AkAudio\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AkAudio\Classes\AkRoomComponent.h">
+      <Filter>Plugins\Wwise\Source\AkAudio\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AkAudio\Classes\AkSettings.h">
+      <Filter>Plugins\Wwise\Source\AkAudio\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AkAudio\Classes\AkSettingsPerUser.h">
+      <Filter>Plugins\Wwise\Source\AkAudio\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AkAudio\Classes\AkSpatialAudioVolume.h">
+      <Filter>Plugins\Wwise\Source\AkAudio\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AkAudio\Classes\AkSpotReflector.h">
+      <Filter>Plugins\Wwise\Source\AkAudio\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AkAudio\Classes\AkSurfaceReflectorSetComponent.h">
+      <Filter>Plugins\Wwise\Source\AkAudio\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AkAudio\Classes\AkUEFeatures.h">
+      <Filter>Plugins\Wwise\Source\AkAudio\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AkAudio\Classes\AkUnrealHelper.h">
+      <Filter>Plugins\Wwise\Source\AkAudio\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AkAudio\Classes\AkWaapiUtils.h">
+      <Filter>Plugins\Wwise\Source\AkAudio\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AkAudio\Classes\InterpTrackAkAudioEvent.h">
+      <Filter>Plugins\Wwise\Source\AkAudio\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AkAudio\Classes\InterpTrackAkAudioRTPC.h">
+      <Filter>Plugins\Wwise\Source\AkAudio\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AkAudio\Classes\InterpTrackInstAkAudioEvent.h">
+      <Filter>Plugins\Wwise\Source\AkAudio\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AkAudio\Classes\InterpTrackInstAkAudioRTPC.h">
+      <Filter>Plugins\Wwise\Source\AkAudio\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AkAudio\Classes\MovieSceneAkAudioEventSection.h">
+      <Filter>Plugins\Wwise\Source\AkAudio\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AkAudio\Classes\MovieSceneAkAudioEventTrack.h">
+      <Filter>Plugins\Wwise\Source\AkAudio\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AkAudio\Classes\MovieSceneAkAudioRTPCSection.h">
+      <Filter>Plugins\Wwise\Source\AkAudio\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AkAudio\Classes\MovieSceneAkAudioRTPCTrack.h">
+      <Filter>Plugins\Wwise\Source\AkAudio\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AkAudio\Classes\MovieSceneAkTrack.h">
+      <Filter>Plugins\Wwise\Source\AkAudio\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AkAudio\Classes\MovieSceneFloatChannelSerializationHelper.h">
+      <Filter>Plugins\Wwise\Source\AkAudio\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AkAudio\Classes\WwiseEventTracking.h">
+      <Filter>Plugins\Wwise\Source\AkAudio\Classes</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\Wwise\Source\AkAudio\Classes\AkWaapiBlueprints">
+      <UniqueIdentifier>{0A721C19-C82D-4DA8-9D62-9B231E3797FE}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AkAudio\Classes\AkWaapiBlueprints\AkWaapiCalls.h">
+      <Filter>Plugins\Wwise\Source\AkAudio\Classes\AkWaapiBlueprints</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AkAudio\Classes\AkWaapiBlueprints\AkWaapiFieldNames.h">
+      <Filter>Plugins\Wwise\Source\AkAudio\Classes\AkWaapiBlueprints</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AkAudio\Classes\AkWaapiBlueprints\AkWaapiFieldNamesCustomization.h">
+      <Filter>Plugins\Wwise\Source\AkAudio\Classes\AkWaapiBlueprints</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AkAudio\Classes\AkWaapiBlueprints\AkWaapiJsonManager.h">
+      <Filter>Plugins\Wwise\Source\AkAudio\Classes\AkWaapiBlueprints</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AkAudio\Classes\AkWaapiBlueprints\AkWaapiUri.h">
+      <Filter>Plugins\Wwise\Source\AkAudio\Classes\AkWaapiBlueprints</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AkAudio\Classes\AkWaapiBlueprints\AkWaapiUriCustomization.h">
+      <Filter>Plugins\Wwise\Source\AkAudio\Classes\AkWaapiBlueprints</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\Wwise\Source\AkAudio\Classes\AkWaapiSlate">
+      <UniqueIdentifier>{5052458E-41E6-44B9-A41C-8572E7C32D9A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\Wwise\Source\AkAudio\Classes\AkWaapiSlate\Widgets">
+      <UniqueIdentifier>{CB4CCE09-9930-4F11-9A45-086126C57FE5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\Wwise\Source\AkAudio\Classes\AkWaapiSlate\Widgets\Input">
+      <UniqueIdentifier>{E912D147-F4A2-425F-86BE-8759A3616451}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AkAudio\Classes\AkWaapiSlate\Widgets\Input\AkSSlider.h">
+      <Filter>Plugins\Wwise\Source\AkAudio\Classes\AkWaapiSlate\Widgets\Input</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\Wwise\Source\AkAudio\Classes\AkWaapiUMG">
+      <UniqueIdentifier>{2578E9E1-180E-4B7A-948D-0350F0BAF78A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\Wwise\Source\AkAudio\Classes\AkWaapiUMG\Components">
+      <UniqueIdentifier>{772A7A45-C595-49C3-AA7E-FB395435D831}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AkAudio\Classes\AkWaapiUMG\Components\AkBoolPropertyToControlCustomization.h">
+      <Filter>Plugins\Wwise\Source\AkAudio\Classes\AkWaapiUMG\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AkAudio\Classes\AkWaapiUMG\Components\AkCheckBox.h">
+      <Filter>Plugins\Wwise\Source\AkAudio\Classes\AkWaapiUMG\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AkAudio\Classes\AkWaapiUMG\Components\AkItemBoolProperties.h">
+      <Filter>Plugins\Wwise\Source\AkAudio\Classes\AkWaapiUMG\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AkAudio\Classes\AkWaapiUMG\Components\AkItemProperties.h">
+      <Filter>Plugins\Wwise\Source\AkAudio\Classes\AkWaapiUMG\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AkAudio\Classes\AkWaapiUMG\Components\AkPropertyToControlCustomization.h">
+      <Filter>Plugins\Wwise\Source\AkAudio\Classes\AkWaapiUMG\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AkAudio\Classes\AkWaapiUMG\Components\AkSlider.h">
+      <Filter>Plugins\Wwise\Source\AkAudio\Classes\AkWaapiUMG\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AkAudio\Classes\AkWaapiUMG\Components\AkWwiseObjectDetailsStructCustomization.h">
+      <Filter>Plugins\Wwise\Source\AkAudio\Classes\AkWaapiUMG\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AkAudio\Classes\AkWaapiUMG\Components\AkWwiseTree.h">
+      <Filter>Plugins\Wwise\Source\AkAudio\Classes\AkWaapiUMG\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AkAudio\Classes\AkWaapiUMG\Components\AkWwiseTreeSelector.h">
+      <Filter>Plugins\Wwise\Source\AkAudio\Classes\AkWaapiUMG\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AkAudio\Classes\AkWaapiUMG\Components\SAkItemBoolProperties.h">
+      <Filter>Plugins\Wwise\Source\AkAudio\Classes\AkWaapiUMG\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AkAudio\Classes\AkWaapiUMG\Components\SAkItemProperties.h">
+      <Filter>Plugins\Wwise\Source\AkAudio\Classes\AkWaapiUMG\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AkAudio\Classes\AkWaapiUMG\Components\WwiseBoolPropertyDragDropOp.h">
+      <Filter>Plugins\Wwise\Source\AkAudio\Classes\AkWaapiUMG\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AkAudio\Classes\AkWaapiUMG\Components\WwisePropertyDragDropOp.h">
+      <Filter>Plugins\Wwise\Source\AkAudio\Classes\AkWaapiUMG\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AkAudio\Classes\AkWaapiUMG\Components\WwiseUmgDragDropOp.h">
+      <Filter>Plugins\Wwise\Source\AkAudio\Classes\AkWaapiUMG\Components</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\Wwise\Source\AkAudio\Classes\InitializationSettings">
+      <UniqueIdentifier>{1896B73B-DB73-439B-814A-1EDA7FC87209}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AkAudio\Classes\InitializationSettings\AkInitializationSettings.h">
+      <Filter>Plugins\Wwise\Source\AkAudio\Classes\InitializationSettings</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\Wwise\Source\AkAudio\Classes\OcclusionObstructionService">
+      <UniqueIdentifier>{80151369-44AB-42C3-A46B-BF8E5816E69D}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AkAudio\Classes\OcclusionObstructionService\AkComponentOcclusionObstructionService.h">
+      <Filter>Plugins\Wwise\Source\AkAudio\Classes\OcclusionObstructionService</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AkAudio\Classes\OcclusionObstructionService\AkOcclusionObstructionService.h">
+      <Filter>Plugins\Wwise\Source\AkAudio\Classes\OcclusionObstructionService</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AkAudio\Classes\OcclusionObstructionService\AkPortalOcclusionObstructionService.h">
+      <Filter>Plugins\Wwise\Source\AkAudio\Classes\OcclusionObstructionService</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\Wwise\Source\AkAudio\Classes\Platforms">
+      <UniqueIdentifier>{71FAF12A-3666-42FF-B1E9-B5FB74AC8155}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AkAudio\Classes\Platforms\AkPlatformBase.h">
+      <Filter>Plugins\Wwise\Source\AkAudio\Classes\Platforms</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AkAudio\Classes\Platforms\AkUEPlatform.h">
+      <Filter>Plugins\Wwise\Source\AkAudio\Classes\Platforms</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\Wwise\Source\AkAudio\Classes\Platforms\AkPlatform_Android">
+      <UniqueIdentifier>{13B89B4C-09B3-4836-A5CA-8958E243AA2F}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AkAudio\Classes\Platforms\AkPlatform_Android\AkAndroidInitializationSettings.h">
+      <Filter>Plugins\Wwise\Source\AkAudio\Classes\Platforms\AkPlatform_Android</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AkAudio\Classes\Platforms\AkPlatform_Android\AkAndroidPlatform.h">
+      <Filter>Plugins\Wwise\Source\AkAudio\Classes\Platforms\AkPlatform_Android</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\Wwise\Source\AkAudio\Classes\Platforms\AkPlatform_iOS">
+      <UniqueIdentifier>{31179304-2152-480C-922E-0786E7635E2E}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AkAudio\Classes\Platforms\AkPlatform_iOS\AkIOSInitializationSettings.h">
+      <Filter>Plugins\Wwise\Source\AkAudio\Classes\Platforms\AkPlatform_iOS</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AkAudio\Classes\Platforms\AkPlatform_iOS\AkIOSPlatform.h">
+      <Filter>Plugins\Wwise\Source\AkAudio\Classes\Platforms\AkPlatform_iOS</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\Wwise\Source\AkAudio\Classes\Platforms\AkPlatform_Linux">
+      <UniqueIdentifier>{5CBB27D2-89D0-4897-9507-AE9C48FAA7ED}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AkAudio\Classes\Platforms\AkPlatform_Linux\AkLinuxInitializationSettings.h">
+      <Filter>Plugins\Wwise\Source\AkAudio\Classes\Platforms\AkPlatform_Linux</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AkAudio\Classes\Platforms\AkPlatform_Linux\AkLinuxPlatform.h">
+      <Filter>Plugins\Wwise\Source\AkAudio\Classes\Platforms\AkPlatform_Linux</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\Wwise\Source\AkAudio\Classes\Platforms\AkPlatform_Lumin">
+      <UniqueIdentifier>{3DA61FCB-BF79-4446-B9BA-105F1C0CECF8}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AkAudio\Classes\Platforms\AkPlatform_Lumin\AkLuminInitializationSettings.h">
+      <Filter>Plugins\Wwise\Source\AkAudio\Classes\Platforms\AkPlatform_Lumin</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AkAudio\Classes\Platforms\AkPlatform_Lumin\AkLuminPlatform.h">
+      <Filter>Plugins\Wwise\Source\AkAudio\Classes\Platforms\AkPlatform_Lumin</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\Wwise\Source\AkAudio\Classes\Platforms\AkPlatform_Mac">
+      <UniqueIdentifier>{55F44075-5F9D-41BE-A4C5-D5919FAE6E16}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AkAudio\Classes\Platforms\AkPlatform_Mac\AkMacInitializationSettings.h">
+      <Filter>Plugins\Wwise\Source\AkAudio\Classes\Platforms\AkPlatform_Mac</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AkAudio\Classes\Platforms\AkPlatform_Mac\AkMacPlatform.h">
+      <Filter>Plugins\Wwise\Source\AkAudio\Classes\Platforms\AkPlatform_Mac</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\Wwise\Source\AkAudio\Classes\Platforms\AkPlatform_PS4">
+      <UniqueIdentifier>{80416F6C-D17A-49D7-9656-AE8225BA4557}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AkAudio\Classes\Platforms\AkPlatform_PS4\AkPS4InitializationSettings.h">
+      <Filter>Plugins\Wwise\Source\AkAudio\Classes\Platforms\AkPlatform_PS4</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AkAudio\Classes\Platforms\AkPlatform_PS4\AkPS4Platform.h">
+      <Filter>Plugins\Wwise\Source\AkAudio\Classes\Platforms\AkPlatform_PS4</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\Wwise\Source\AkAudio\Classes\Platforms\AkPlatform_Switch">
+      <UniqueIdentifier>{A22BE60A-9AE2-4C6C-B0CD-C9F3DBE85BEE}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AkAudio\Classes\Platforms\AkPlatform_Switch\AkSwitchInitializationSettings.h">
+      <Filter>Plugins\Wwise\Source\AkAudio\Classes\Platforms\AkPlatform_Switch</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AkAudio\Classes\Platforms\AkPlatform_Switch\AkSwitchPlatform.h">
+      <Filter>Plugins\Wwise\Source\AkAudio\Classes\Platforms\AkPlatform_Switch</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\Wwise\Source\AkAudio\Classes\Platforms\AkPlatform_Windows">
+      <UniqueIdentifier>{88372FFD-0C8A-4A3B-B3E2-6959C687EE7E}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AkAudio\Classes\Platforms\AkPlatform_Windows\AkWindowsInitializationSettings.h">
+      <Filter>Plugins\Wwise\Source\AkAudio\Classes\Platforms\AkPlatform_Windows</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AkAudio\Classes\Platforms\AkPlatform_Windows\AkWindowsPlatform.h">
+      <Filter>Plugins\Wwise\Source\AkAudio\Classes\Platforms\AkPlatform_Windows</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\Wwise\Source\AkAudio\Classes\Platforms\AkPlatform_XboxOne">
+      <UniqueIdentifier>{78864159-9B16-45B0-AECF-3AF79BB42FEC}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AkAudio\Classes\Platforms\AkPlatform_XboxOne\AkXboxOneInitializationSettings.h">
+      <Filter>Plugins\Wwise\Source\AkAudio\Classes\Platforms\AkPlatform_XboxOne</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AkAudio\Classes\Platforms\AkPlatform_XboxOne\AkXboxOnePlatform.h">
+      <Filter>Plugins\Wwise\Source\AkAudio\Classes\Platforms\AkPlatform_XboxOne</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\Wwise\Source\AkAudio\Classes\WaapiPicker">
+      <UniqueIdentifier>{C22ED062-20DF-4EAB-875C-1A3C756C3AEA}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AkAudio\Classes\WaapiPicker\SWaapiPicker.h">
+      <Filter>Plugins\Wwise\Source\AkAudio\Classes\WaapiPicker</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AkAudio\Classes\WaapiPicker\SWaapiPickerRow.h">
+      <Filter>Plugins\Wwise\Source\AkAudio\Classes\WaapiPicker</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AkAudio\Classes\WaapiPicker\WaapiPickerViewCommands.h">
+      <Filter>Plugins\Wwise\Source\AkAudio\Classes\WaapiPicker</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AkAudio\Classes\WaapiPicker\WwiseTreeItem.h">
+      <Filter>Plugins\Wwise\Source\AkAudio\Classes\WaapiPicker</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\Wwise\Source\AkAudio\Private">
+      <UniqueIdentifier>{F5324788-DF4A-4C5F-B8AE-11A0A532C6E4}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\Wwise\Source\AkAudio\Private\AkAcousticPortal.cpp">
+      <Filter>Plugins\Wwise\Source\AkAudio\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\Wwise\Source\AkAudio\Private\AkAcousticTexture.cpp">
+      <Filter>Plugins\Wwise\Source\AkAudio\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\Wwise\Source\AkAudio\Private\AkActivatedPlugins.cpp">
+      <Filter>Plugins\Wwise\Source\AkAudio\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\Wwise\Source\AkAudio\Private\AkAmbientSound.cpp">
+      <Filter>Plugins\Wwise\Source\AkAudio\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\Wwise\Source\AkAudio\Private\AkAudioBank.cpp">
+      <Filter>Plugins\Wwise\Source\AkAudio\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\Wwise\Source\AkAudio\Private\AkAudioDevice.cpp">
+      <Filter>Plugins\Wwise\Source\AkAudio\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\Wwise\Source\AkAudio\Private\AkAudioEvent.cpp">
+      <Filter>Plugins\Wwise\Source\AkAudio\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\Wwise\Source\AkAudio\Private\AkAudioInputComponent.cpp">
+      <Filter>Plugins\Wwise\Source\AkAudio\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\Wwise\Source\AkAudio\Private\AkAudioInputManager.cpp">
+      <Filter>Plugins\Wwise\Source\AkAudio\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\Wwise\Source\AkAudio\Private\AkAudioModule.cpp">
+      <Filter>Plugins\Wwise\Source\AkAudio\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\Wwise\Source\AkAudio\Private\AkAudioStyle.cpp">
+      <Filter>Plugins\Wwise\Source\AkAudio\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\Wwise\Source\AkAudio\Private\AkAuxBus.cpp">
+      <Filter>Plugins\Wwise\Source\AkAudio\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\Wwise\Source\AkAudio\Private\AkBankManager.cpp">
+      <Filter>Plugins\Wwise\Source\AkAudio\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\Wwise\Source\AkAudio\Private\AkCallbackInfoPool.cpp">
+      <Filter>Plugins\Wwise\Source\AkAudio\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\Wwise\Source\AkAudio\Private\AkComponent.cpp">
+      <Filter>Plugins\Wwise\Source\AkAudio\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\Wwise\Source\AkAudio\Private\AkComponentCallbackManager.cpp">
+      <Filter>Plugins\Wwise\Source\AkAudio\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AkAudio\Private\AkComponentCallbackManager.h">
+      <Filter>Plugins\Wwise\Source\AkAudio\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\Wwise\Source\AkAudio\Private\AkCustomVersion.cpp">
+      <Filter>Plugins\Wwise\Source\AkAudio\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AkAudio\Private\AkCustomVersion.h">
+      <Filter>Plugins\Wwise\Source\AkAudio\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\Wwise\Source\AkAudio\Private\AkGameObject.cpp">
+      <Filter>Plugins\Wwise\Source\AkAudio\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\Wwise\Source\AkAudio\Private\AkGameplayStatics.cpp">
+      <Filter>Plugins\Wwise\Source\AkAudio\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\Wwise\Source\AkAudio\Private\AkGameplayTypes.cpp">
+      <Filter>Plugins\Wwise\Source\AkAudio\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\Wwise\Source\AkAudio\Private\AkGeometryComponent.cpp">
+      <Filter>Plugins\Wwise\Source\AkAudio\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\Wwise\Source\AkAudio\Private\AkLateReverbComponent.cpp">
+      <Filter>Plugins\Wwise\Source\AkAudio\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\Wwise\Source\AkAudio\Private\AkReverbVolume.cpp">
+      <Filter>Plugins\Wwise\Source\AkAudio\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\Wwise\Source\AkAudio\Private\AkRoomComponent.cpp">
+      <Filter>Plugins\Wwise\Source\AkAudio\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\Wwise\Source\AkAudio\Private\AkSettings.cpp">
+      <Filter>Plugins\Wwise\Source\AkAudio\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\Wwise\Source\AkAudio\Private\AkSettingsPerUser.cpp">
+      <Filter>Plugins\Wwise\Source\AkAudio\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\Wwise\Source\AkAudio\Private\AkSpatialAudioVolume.cpp">
+      <Filter>Plugins\Wwise\Source\AkAudio\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\Wwise\Source\AkAudio\Private\AkSpotReflector.cpp">
+      <Filter>Plugins\Wwise\Source\AkAudio\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\Wwise\Source\AkAudio\Private\AkSurfaceReflectorSetComponent.cpp">
+      <Filter>Plugins\Wwise\Source\AkAudio\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\Wwise\Source\AkAudio\Private\AkUnrealHelper.cpp">
+      <Filter>Plugins\Wwise\Source\AkAudio\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\Wwise\Source\AkAudio\Private\AkUnrealIOHookDeferred.cpp">
+      <Filter>Plugins\Wwise\Source\AkAudio\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AkAudio\Private\AkUnrealIOHookDeferred.h">
+      <Filter>Plugins\Wwise\Source\AkAudio\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\Wwise\Source\AkAudio\Private\AkWaapiClient.cpp">
+      <Filter>Plugins\Wwise\Source\AkAudio\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\Wwise\Source\AkAudio\Private\AkWaapiUtils.cpp">
+      <Filter>Plugins\Wwise\Source\AkAudio\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\Wwise\Source\AkAudio\Private\InterpTrackAkAudioEvent.cpp">
+      <Filter>Plugins\Wwise\Source\AkAudio\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\Wwise\Source\AkAudio\Private\InterpTrackAkAudioRTPC.cpp">
+      <Filter>Plugins\Wwise\Source\AkAudio\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\Wwise\Source\AkAudio\Private\InterpTrackInstAkAudioEvent.cpp">
+      <Filter>Plugins\Wwise\Source\AkAudio\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\Wwise\Source\AkAudio\Private\InterpTrackInstAkAudioRTPC.cpp">
+      <Filter>Plugins\Wwise\Source\AkAudio\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\Wwise\Source\AkAudio\Private\MovieSceneAkAudioEventSection.cpp">
+      <Filter>Plugins\Wwise\Source\AkAudio\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\Wwise\Source\AkAudio\Private\MovieSceneAkAudioEventTemplate.cpp">
+      <Filter>Plugins\Wwise\Source\AkAudio\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AkAudio\Private\MovieSceneAkAudioEventTemplate.h">
+      <Filter>Plugins\Wwise\Source\AkAudio\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\Wwise\Source\AkAudio\Private\MovieSceneAkAudioEventTrack.cpp">
+      <Filter>Plugins\Wwise\Source\AkAudio\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\Wwise\Source\AkAudio\Private\MovieSceneAkAudioRTPCSection.cpp">
+      <Filter>Plugins\Wwise\Source\AkAudio\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\Wwise\Source\AkAudio\Private\MovieSceneAkAudioRTPCTemplate.cpp">
+      <Filter>Plugins\Wwise\Source\AkAudio\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AkAudio\Private\MovieSceneAkAudioRTPCTemplate.h">
+      <Filter>Plugins\Wwise\Source\AkAudio\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\Wwise\Source\AkAudio\Private\MovieSceneAkAudioRTPCTrack.cpp">
+      <Filter>Plugins\Wwise\Source\AkAudio\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\Wwise\Source\AkAudio\Private\WwiseEventTracking.cpp">
+      <Filter>Plugins\Wwise\Source\AkAudio\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\Wwise\Source\AkAudio\Private\AkWaapiBlueprints">
+      <UniqueIdentifier>{B6FD8237-AC9D-4145-8E1C-625B6A56E52D}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\Wwise\Source\AkAudio\Private\AkWaapiBlueprints\AkWaapiCalls.cpp">
+      <Filter>Plugins\Wwise\Source\AkAudio\Private\AkWaapiBlueprints</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\Wwise\Source\AkAudio\Private\AkWaapiBlueprints\AkWaapiFieldNames.cpp">
+      <Filter>Plugins\Wwise\Source\AkAudio\Private\AkWaapiBlueprints</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\Wwise\Source\AkAudio\Private\AkWaapiBlueprints\AkWaapiFieldNamesCustomization.cpp">
+      <Filter>Plugins\Wwise\Source\AkAudio\Private\AkWaapiBlueprints</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\Wwise\Source\AkAudio\Private\AkWaapiBlueprints\AkWaapiJsonManager.cpp">
+      <Filter>Plugins\Wwise\Source\AkAudio\Private\AkWaapiBlueprints</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\Wwise\Source\AkAudio\Private\AkWaapiBlueprints\AkWaapiUri.cpp">
+      <Filter>Plugins\Wwise\Source\AkAudio\Private\AkWaapiBlueprints</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\Wwise\Source\AkAudio\Private\AkWaapiBlueprints\AkWaapiUriCustomization.cpp">
+      <Filter>Plugins\Wwise\Source\AkAudio\Private\AkWaapiBlueprints</Filter>
+    </ClCompile>
+    <None Include="..\..\Plugins\Wwise\Source\AkAudio\Private\AkWaapiBlueprints\AkWaapiUriList.inc">
+      <Filter>Plugins\Wwise\Source\AkAudio\Private\AkWaapiBlueprints</Filter>
+    </None>
+    <Filter Include="Plugins\Wwise\Source\AkAudio\Private\AkWaapiSlate">
+      <UniqueIdentifier>{A1A3ADB9-B270-4973-A73A-748479202643}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\Wwise\Source\AkAudio\Private\AkWaapiSlate\Widgets">
+      <UniqueIdentifier>{4669ABC5-4D2B-4695-B456-2EE52408F5BF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\Wwise\Source\AkAudio\Private\AkWaapiSlate\Widgets\Input">
+      <UniqueIdentifier>{D0C3CD73-D2F2-4510-9DC2-28B9948CF1E9}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\Wwise\Source\AkAudio\Private\AkWaapiSlate\Widgets\Input\AkSSlider.cpp">
+      <Filter>Plugins\Wwise\Source\AkAudio\Private\AkWaapiSlate\Widgets\Input</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\Wwise\Source\AkAudio\Private\AkWaapiUMG">
+      <UniqueIdentifier>{BAA967C8-59D9-45C5-9DB2-A8D97D02752D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\Wwise\Source\AkAudio\Private\AkWaapiUMG\Components">
+      <UniqueIdentifier>{C2CAEF78-C960-4912-85ED-F2F9E2AB047E}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\Wwise\Source\AkAudio\Private\AkWaapiUMG\Components\AkBoolPropertyToControlCustomization.cpp">
+      <Filter>Plugins\Wwise\Source\AkAudio\Private\AkWaapiUMG\Components</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\Wwise\Source\AkAudio\Private\AkWaapiUMG\Components\AkCheckBox.cpp">
+      <Filter>Plugins\Wwise\Source\AkAudio\Private\AkWaapiUMG\Components</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\Wwise\Source\AkAudio\Private\AkWaapiUMG\Components\AkItemBoolProperties.cpp">
+      <Filter>Plugins\Wwise\Source\AkAudio\Private\AkWaapiUMG\Components</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\Wwise\Source\AkAudio\Private\AkWaapiUMG\Components\AkItemProperties.cpp">
+      <Filter>Plugins\Wwise\Source\AkAudio\Private\AkWaapiUMG\Components</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\Wwise\Source\AkAudio\Private\AkWaapiUMG\Components\AkPropertyToControlCustomization.cpp">
+      <Filter>Plugins\Wwise\Source\AkAudio\Private\AkWaapiUMG\Components</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\Wwise\Source\AkAudio\Private\AkWaapiUMG\Components\AkSlider.cpp">
+      <Filter>Plugins\Wwise\Source\AkAudio\Private\AkWaapiUMG\Components</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\Wwise\Source\AkAudio\Private\AkWaapiUMG\Components\AkWwiseObjectDetailsStructCustomization.cpp">
+      <Filter>Plugins\Wwise\Source\AkAudio\Private\AkWaapiUMG\Components</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\Wwise\Source\AkAudio\Private\AkWaapiUMG\Components\AkWwiseTree.cpp">
+      <Filter>Plugins\Wwise\Source\AkAudio\Private\AkWaapiUMG\Components</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\Wwise\Source\AkAudio\Private\AkWaapiUMG\Components\AkWwiseTreeSelector.cpp">
+      <Filter>Plugins\Wwise\Source\AkAudio\Private\AkWaapiUMG\Components</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\Wwise\Source\AkAudio\Private\AkWaapiUMG\Components\SAkItemBoolProperties.cpp">
+      <Filter>Plugins\Wwise\Source\AkAudio\Private\AkWaapiUMG\Components</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\Wwise\Source\AkAudio\Private\AkWaapiUMG\Components\SAkItemProperties.cpp">
+      <Filter>Plugins\Wwise\Source\AkAudio\Private\AkWaapiUMG\Components</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\Wwise\Source\AkAudio\Private\FilePackageIO">
+      <UniqueIdentifier>{F4F090E4-1CD2-4ED3-8BB1-734FBD6F152D}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\Wwise\Source\AkAudio\Private\FilePackageIO\AkFilePackage.cpp">
+      <Filter>Plugins\Wwise\Source\AkAudio\Private\FilePackageIO</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AkAudio\Private\FilePackageIO\AkFilePackage.h">
+      <Filter>Plugins\Wwise\Source\AkAudio\Private\FilePackageIO</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AkAudio\Private\FilePackageIO\AkFilePackageLowLevelIO.h">
+      <Filter>Plugins\Wwise\Source\AkAudio\Private\FilePackageIO</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AkAudio\Private\FilePackageIO\AkFilePackageLowLevelIO.inl">
+      <Filter>Plugins\Wwise\Source\AkAudio\Private\FilePackageIO</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\Wwise\Source\AkAudio\Private\FilePackageIO\AkFilePackageLUT.cpp">
+      <Filter>Plugins\Wwise\Source\AkAudio\Private\FilePackageIO</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AkAudio\Private\FilePackageIO\AkFilePackageLUT.h">
+      <Filter>Plugins\Wwise\Source\AkAudio\Private\FilePackageIO</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\Wwise\Source\AkAudio\Private\Generated">
+      <UniqueIdentifier>{66A0B70C-E5E9-4CA1-A57A-7FB9EE3134A6}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AkAudio\Private\Generated\AkiOSPlugins.h">
+      <Filter>Plugins\Wwise\Source\AkAudio\Private\Generated</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AkAudio\Private\Generated\AkSwitchPlugins.h">
+      <Filter>Plugins\Wwise\Source\AkAudio\Private\Generated</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\Wwise\Source\AkAudio\Private\InitializationSettings">
+      <UniqueIdentifier>{D289157D-F664-4FF5-8AFC-500DAC6FC241}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\Wwise\Source\AkAudio\Private\InitializationSettings\AkInitializationSettings.cpp">
+      <Filter>Plugins\Wwise\Source\AkAudio\Private\InitializationSettings</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\Wwise\Source\AkAudio\Private\OcclusionObstructionService">
+      <UniqueIdentifier>{30A137DE-1DF5-46D9-A62C-2E84020813A5}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\Wwise\Source\AkAudio\Private\OcclusionObstructionService\AkComponentOcclusionObstructionService.cpp">
+      <Filter>Plugins\Wwise\Source\AkAudio\Private\OcclusionObstructionService</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\Wwise\Source\AkAudio\Private\OcclusionObstructionService\AkOcclusionObstructionService.cpp">
+      <Filter>Plugins\Wwise\Source\AkAudio\Private\OcclusionObstructionService</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\Wwise\Source\AkAudio\Private\OcclusionObstructionService\AkPortalOcclusionObstructionService.cpp">
+      <Filter>Plugins\Wwise\Source\AkAudio\Private\OcclusionObstructionService</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\Wwise\Source\AkAudio\Private\Platforms">
+      <UniqueIdentifier>{ECF091C2-3ADD-4D69-9DCB-0596A81260D9}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\Wwise\Source\AkAudio\Private\Platforms\AkPlatformBase.cpp">
+      <Filter>Plugins\Wwise\Source\AkAudio\Private\Platforms</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\Wwise\Source\AkAudio\Private\Platforms\AkUEPlatform.cpp">
+      <Filter>Plugins\Wwise\Source\AkAudio\Private\Platforms</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\Wwise\Source\AkAudio\Private\Platforms\AkPlatform_Android">
+      <UniqueIdentifier>{9E4AD4FF-6E6D-486D-9E05-9C4C7A0F8C70}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\Wwise\Source\AkAudio\Private\Platforms\AkPlatform_Android\AkAndroidInitializationSettings.cpp">
+      <Filter>Plugins\Wwise\Source\AkAudio\Private\Platforms\AkPlatform_Android</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\Wwise\Source\AkAudio\Private\Platforms\AkPlatform_iOS">
+      <UniqueIdentifier>{F8CB865B-F9D6-4630-AF21-AB60789F550A}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\Wwise\Source\AkAudio\Private\Platforms\AkPlatform_iOS\AkIOSInitializationSettings.cpp">
+      <Filter>Plugins\Wwise\Source\AkAudio\Private\Platforms\AkPlatform_iOS</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\Wwise\Source\AkAudio\Private\Platforms\AkPlatform_Linux">
+      <UniqueIdentifier>{ACCE8AA8-F082-4314-9AA5-154855FBCEC5}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\Wwise\Source\AkAudio\Private\Platforms\AkPlatform_Linux\AkLinuxInitializationSettings.cpp">
+      <Filter>Plugins\Wwise\Source\AkAudio\Private\Platforms\AkPlatform_Linux</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\Wwise\Source\AkAudio\Private\Platforms\AkPlatform_Lumin">
+      <UniqueIdentifier>{7D1541F0-9D6D-496B-A9E4-D8F97BC07AB4}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\Wwise\Source\AkAudio\Private\Platforms\AkPlatform_Lumin\AkLuminInitializationSettings.cpp">
+      <Filter>Plugins\Wwise\Source\AkAudio\Private\Platforms\AkPlatform_Lumin</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\Wwise\Source\AkAudio\Private\Platforms\AkPlatform_Mac">
+      <UniqueIdentifier>{B8AD41B2-623D-44BC-B57C-5224F8DCD7B9}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\Wwise\Source\AkAudio\Private\Platforms\AkPlatform_Mac\AkMacInitializationSettings.cpp">
+      <Filter>Plugins\Wwise\Source\AkAudio\Private\Platforms\AkPlatform_Mac</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\Wwise\Source\AkAudio\Private\Platforms\AkPlatform_PS4">
+      <UniqueIdentifier>{FE68EC9F-7A69-4576-8C96-6BB4A2315443}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\Wwise\Source\AkAudio\Private\Platforms\AkPlatform_PS4\AkPS4InitializationSettings.cpp">
+      <Filter>Plugins\Wwise\Source\AkAudio\Private\Platforms\AkPlatform_PS4</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\Wwise\Source\AkAudio\Private\Platforms\AkPlatform_Switch">
+      <UniqueIdentifier>{DDC1218C-59FA-4E6A-B097-160B5C508AC3}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\Wwise\Source\AkAudio\Private\Platforms\AkPlatform_Switch\AkSwitchInitializationSettings.cpp">
+      <Filter>Plugins\Wwise\Source\AkAudio\Private\Platforms\AkPlatform_Switch</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\Wwise\Source\AkAudio\Private\Platforms\AkPlatform_Windows">
+      <UniqueIdentifier>{13B638C0-0EF5-4C2B-B050-22CAE3B36143}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\Wwise\Source\AkAudio\Private\Platforms\AkPlatform_Windows\AkWindowsInitializationSettings.cpp">
+      <Filter>Plugins\Wwise\Source\AkAudio\Private\Platforms\AkPlatform_Windows</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\Wwise\Source\AkAudio\Private\Platforms\AkPlatform_XboxOne">
+      <UniqueIdentifier>{FFC0F241-00C8-4CAC-B24F-C152450FF25E}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\Wwise\Source\AkAudio\Private\Platforms\AkPlatform_XboxOne\AkXboxOneInitializationSettings.cpp">
+      <Filter>Plugins\Wwise\Source\AkAudio\Private\Platforms\AkPlatform_XboxOne</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\Wwise\Source\AkAudio\Private\StringMatchAlgos">
+      <UniqueIdentifier>{71825C2F-3456-4F0E-A26F-5B471F126362}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AkAudio\Private\StringMatchAlgos\Array2D.h">
+      <Filter>Plugins\Wwise\Source\AkAudio\Private\StringMatchAlgos</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\Wwise\Source\AkAudio\Private\StringMatchAlgos\StringMatching.cpp">
+      <Filter>Plugins\Wwise\Source\AkAudio\Private\StringMatchAlgos</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AkAudio\Private\StringMatchAlgos\StringMatching.h">
+      <Filter>Plugins\Wwise\Source\AkAudio\Private\StringMatchAlgos</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\Wwise\Source\AkAudio\Private\WaapiPicker">
+      <UniqueIdentifier>{3558149F-EAC7-43C0-A935-CE9DB941370E}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\Wwise\Source\AkAudio\Private\WaapiPicker\SWaapiPicker.cpp">
+      <Filter>Plugins\Wwise\Source\AkAudio\Private\WaapiPicker</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\Wwise\Source\AkAudio\Private\WaapiPicker\SWaapiPickerRow.cpp">
+      <Filter>Plugins\Wwise\Source\AkAudio\Private\WaapiPicker</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\Wwise\Source\AkAudio\Public">
+      <UniqueIdentifier>{D37EC8F5-E4D4-469D-A4E3-C7D951B73BD1}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AkAudio\Public\AkAudioDevice.h">
+      <Filter>Plugins\Wwise\Source\AkAudio\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AkAudio\Public\AkAudioModule.h">
+      <Filter>Plugins\Wwise\Source\AkAudio\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AkAudio\Public\AkInclude.h">
+      <Filter>Plugins\Wwise\Source\AkAudio\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\Wwise\Source\AkAudio\Public\AkWaapiClient.h">
+      <Filter>Plugins\Wwise\Source\AkAudio\Public</Filter>
+    </ClInclude>
+    <Filter Include="Source\UnrealProject">
+      <UniqueIdentifier>{BE6D984D-01E8-4C65-8685-D9F698583802}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\UnrealProject\MyClass.cpp">
+      <Filter>Source\UnrealProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UnrealProject\MyClass.h">
+      <Filter>Source\UnrealProject</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\UnrealProject\UnrealProject.Build.cs">
+      <Filter>Source\UnrealProject</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\UnrealProject\UnrealProject.cpp">
+      <Filter>Source\UnrealProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UnrealProject\UnrealProject.h">
+      <Filter>Source\UnrealProject</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
